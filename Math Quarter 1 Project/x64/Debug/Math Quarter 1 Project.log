@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(126): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(128): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(131): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(201): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(202): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(203): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(204): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(391): warning C4047: 'initializing': 'int **' differs in levels of indirection from 'int (*)[15]'
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(119): warning C4172: returning address of local variable or temporary: $S1
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(131): warning C4172: returning address of local variable or temporary: $S2
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(132): warning C4172: returning address of local variable or temporary: $S3
+  Math Quarter 1 Project.vcxproj -> C:\Users\Ben\Source\Repos\Math Quarter 1 Project\x64\Debug\Math Quarter 1 Project.exe

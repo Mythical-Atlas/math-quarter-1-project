@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\ben\source\repos\math quarter 1 project\math quarter 1 project\main.c(11): warning C4026: function declared with formal parameter list
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Ben\AppData\Local\simple2d\simple2d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Ben\Source\Repos\Math Quarter 1 Project\Debug\Math Quarter 1 Project.exe : fatal error LNK1120: 1 unresolved externals
